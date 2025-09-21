@@ -6,11 +6,12 @@
   - [Active Directory](https://github.com/MaajedSalmin/LABURL)
  
 <h2>📃 Certifications :</h2> 
-- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/ZW0Y2JPM4PEB)
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/TIIUUT0Z8LGH)
-- [Introduction to Web Development with HTML, CSS, JavaScript](https://www.coursera.org/account/accomplishments/verify/24OBSUHG3FZG)
-- [Fortinet Certified Associate in Cybersecurity](https://github.com/MaajedSalmin/LABURL)
-- [Fortinet Certified Fundamentals in Cybersecurity](https://github.com/MaajedSalmin/LABURL)
+
+ - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/ZW0Y2JPM4PEB)
+ - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/TIIUUT0Z8LGH)
+ - [Introduction to Web Development with HTML, CSS, JavaScript](https://www.coursera.org/account/accomplishments/verify/24OBSUHG3FZG)
+ - [Fortinet Certified Associate in Cybersecurity](https://github.com/MaajedSalmin/)
+ - [Fortinet Certified Fundamentals in Cybersecurity](https://github.com/MaajedSalmin/LABURL)
 
 
 
