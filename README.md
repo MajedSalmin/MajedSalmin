@@ -4,6 +4,8 @@
 
 - <b>Active Directory Home Lab</b>
   - [Active Directory](https://github.com/MaajedSalmin/LABURL)
+- <b>Active Directory Home Lab</b>
+  - [SOC/SIEM Monitoring Live Attacks ](https://github.com/MaajedSalmin/LABURL)
  
 <h2>📃 Certifications :</h2> 
 
