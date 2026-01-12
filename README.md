@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Active Directory](https://github.com/MaajedSalmin/LABURL)
+  - [Active Directory](https://github.com/MajedSalmin/ActiveDirectoryLab)
 - <b>Active Directory Home Lab</b>
-  - [SOC/SIEM Monitoring Live Attacks ](https://github.com/MaajedSalmin/LABURL)
+  - [SOC/SIEM Monitoring Live Attacks ])
  
 <h2>📃 Certifications :</h2> 
 
